@@ -1,3 +1,20 @@
 .App {
   text-align: center;
 }
+
+.Nav {
+  height: 200px;
+  background-color: black;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.Nav a {
+  color: white;
+
+  font-size: 25px;
+  font-weight: 800;
+}
